@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there!
 
-- 🌱 I’m currently learning terraform scripting
-- :sun_with_face: I’m currently also working on my github profile!
-- :sunglasses: Ask me about anything in backend system :)
+:sunglasses: Ask me about anything in backend system <br/>
 
 <br/>
 
