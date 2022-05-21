@@ -6,7 +6,6 @@
 #### Frontend Learning
 :white_check_mark: Bootstrap Framework <br/>
 :white_check_mark: Tailwind CSS <br/>
-:white_check_mark: Understanding HTML Canvas <br/>
 
 ### Framework
 :seedling: Svelte Framework<br/>
