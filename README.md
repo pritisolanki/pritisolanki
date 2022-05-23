@@ -1,6 +1,6 @@
 ### Hi there!
 
-:sunglasses: Looking for backend consultant, reach me <br/>
+:sunglasses: Looking for backend consultant, ask me any question or reach me with any queries related to backend system design <br/>
 
 
 #### Frontend Learning
