@@ -1,13 +1,15 @@
-### Hi there!
+### Hi there!!
 
-:sunglasses: Looking for backend consultant, ask me any question or reach me with any queries related to backend system design <br/>
+#### Backend
+:white_check_mark: Python Basic <br/>
+:seedling: Python Web <br/>
 
+#### Infra
+:seedling: Terraform <br/>
 
-#### Frontend Learning
+#### What I'm learning in frontend
 :white_check_mark: Bootstrap Framework <br/>
 :white_check_mark: Tailwind CSS <br/>
-
-### Framework
 :seedling: Svelte Framework<br/>
 <br/>
 
