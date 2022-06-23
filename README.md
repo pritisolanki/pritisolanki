@@ -1,9 +1,8 @@
 ### Hi there!!
 
 #### Backend
-:white_check_mark: Python Basic <br/>
-:seedling: Python Web <br/>
-
+:white_check_mark: Python <br/>
+:white_check_mark: Modern tools in Python <br/>
 #### Infra
 :seedling: Terraform <br/>
 
