@@ -3,8 +3,7 @@
 #### Backend
 :white_check_mark: Python <br/>
 :white_check_mark: Modern tools in Python <br/>
-#### Infra
-:seedling: Terraform <br/>
+
 
 #### What I'm learning in frontend
 :white_check_mark: Bootstrap Framework <br/>
