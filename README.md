@@ -51,9 +51,9 @@ If you need technical writing or consultation services, I am available.
    </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" width="48" height="48" alt="Express" />
       </a>
-      <br>JavaScript
+      <br>Express
     </td>
    <td align="center" width="96">
       <a href="#">
@@ -67,14 +67,12 @@ If you need technical writing or consultation services, I am available.
       </a>
       <br>React JS
     </td> 
+     <td>
+        <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" width="48" height="48" alt="Next" />
+       <br>Next JS
+     </td>
   </tr>
   <tr> 
-     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
    <td align="center" width="96">
       <a href="#">
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWind" />
@@ -102,6 +100,12 @@ If you need technical writing or consultation services, I am available.
   </tr>
   
    <tr>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
     <td align="center" width="96"> 
       <a href="#" >
         <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" width="48" height="48" alt="Vercel" />
@@ -118,7 +122,7 @@ If you need technical writing or consultation services, I am available.
       <a href="#" >
         <img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" width="48" height="48" alt="aws webservices" />
       </a>
-      <br>GraphQL
+      <br>AWS
     </td>
      <td align="center">
       <a href="#" >
