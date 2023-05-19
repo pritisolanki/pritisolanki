@@ -143,8 +143,9 @@ If you need technical writing or consultation services, I am available.
 
 # Recent Blog Posts - Content
 <p aligh="left">
-  - <a href="The Top 5 Content Modeling Roadblocks"> The Top 5 Content Modeling Roadblocks</a><br/>
-  - <a href="https://www.pritisolanki.com/what-is-content-format.html">What is content format</a><br/>
+  - <a href="https://www.pritisolanki.com/unable-to-identify-core-content-type-correctly.html"> Content Modeling: Unable to identify core content type correctly</a><br/>
+  - <a href="https://www.pritisolanki.com/you-are-new-to-content-first-approach.html"> Content Modeling: You are new to a content-first approach</a><br/>
+  - <a href="https://www.pritisolanki.com/top-content-modeling-challenges.html"> The Top 5 Content Modeling Roadblocks</a><br/>
   - <a href="https://www.pritisolanki.com/content-goal.html">What is Content Goal</a><br/>
 </p>
 
