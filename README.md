@@ -30,7 +30,8 @@ If you need technical writing or consultation services, I am available.
 - 📝 Writing Articles
 
 # Hackathons
-- :zap: [Problem-solving template](https://vimeo.com/user183267663) (Code.ai)
+- :zap: [Outerbase Hackathon](https://curiousmind.hashnode.dev/database-dashboard-for-headless-cms)
+- 🤖 [Problem-solving template](https://vimeo.com/user183267663) (Code.ai)
 - 🌏 Monday.com climate App Hackathon (Winner)
 - 🍃 WorldInnovationDay Product Hackathon (Unesco/ Hackmaker)
 
@@ -136,6 +137,7 @@ If you need technical writing or consultation services, I am available.
 
 # Recent Blog Posts - Technical
 <p aligh="left">
+  - <a href="https://curiousmind.hashnode.dev/kontentai-integration-with-zapier"> Zapier integration with Kontent.ai </a> <br/>
   - <a href="https://curiousmind.hashnode.dev/nextjs-deployment-error-occurred-prerendering-page"> Troubleshoot Next.js deployment error occurred prerendering page "/"</a><br/>
   - <a href="https://curiousmind.hashnode.dev/setup-local-dynamodb-with-nosql-workbench">Setup local Dynamodb with NoSQL workbench</a><br/>
   - <a href="https://curiousmind.hashnode.dev/export-thunder-client-collection-to-postman">Thunder client collection to Postman</a><br/>
